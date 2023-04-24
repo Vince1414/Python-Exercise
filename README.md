@@ -29,3 +29,5 @@
 
 #this  program is meant to asks the user for the weight of their package and then tells them which method of shipping is cheapest and how much it will cost to ship their package.
 #this is more advance exercise of if/ elif/ else statement and i get to pratice more of how the statement work.
+
+#3. practicing list with sorting items in a list, remove, insert and counting length of the list.
